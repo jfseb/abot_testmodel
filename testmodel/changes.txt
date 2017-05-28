@@ -1,0 +1,9 @@
+r3trans
+
+repalce transaction description => transaction_description
+
+
+
+
+reuse text
+Catalog Description
