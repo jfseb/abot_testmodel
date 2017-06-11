@@ -5,12 +5,24 @@
     {
       "category": "fiori intent",
       "category_description": "A combination of \"#\" <SemanticObject> - <Semanticaction> which appears in the URL of the Fiori Launchpad when addressing the application",
-      "wordindex": true
+      "wordindex": true,
+      "category_synonyms": [
+        "fiori intents",
+        "intents",
+        "intent"
+      ]
     },
     {
       "category": "ApplicationComponent",
       "category_description": "Support component for the Backend catalog entry, (the Package associated with the UIAD Transport record containing the Catalog Definition (SUI_TM_MM_APPS table). This is the component repsonsible for the Catalog, (not necessarily for the legacy application!)",
-      "wordindex": true
+      "wordindex": true,
+       "category_synonyms": [
+        "Application Component",
+        "Application components",
+        "ApplicationComponents",
+        "Support Component",
+        "Component"
+      ]
     },
     {
       "category": "WebDynproApplication",
@@ -28,6 +40,7 @@
       "wordindex": true,
       "category_synonyms": [
         "Fiori Backend Catalog",
+        "Fiori Backend Catalogs",
         "Backend Catalog"
       ]
     },
@@ -58,6 +71,7 @@
       "category": "TransactionCode",
       "category_description": "For GUI based transaction, the transaction code behind intent, a classical R/3 SAPGUi transaction",
       "exactmatch": true,
+      "wordindex": true,
       "category_synonyms": [
         "Transactions",
         "TransactionCode",

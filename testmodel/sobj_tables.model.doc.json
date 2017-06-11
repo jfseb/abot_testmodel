@@ -54,7 +54,7 @@
       "exactmatch": true
     },
     {
-      "category": "Category",
+      "category": "category",
       "category_description": "Category of the transport",
       "exactmatch": true
     },

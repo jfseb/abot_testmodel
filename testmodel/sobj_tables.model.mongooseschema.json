@@ -28,10 +28,10 @@
       "trim": true,
       "_m_category": "Object name length"
     },
-    "Category": {
+    "category": {
       "type": "String",
       "trim": true,
-      "_m_category": "Category"
+      "_m_category": "category"
     },
     "TranslationRelevant": {
       "type": "Boolean",

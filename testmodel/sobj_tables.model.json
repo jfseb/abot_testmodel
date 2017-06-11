@@ -31,7 +31,7 @@
       "description" : "Length of transport key",
       "importance" : 0.89
     },
-    { "name" : "Category",
+    { "name" : "category",
       "description"  : "Category of the transport"
     },
     { "name" : "TranslationRelevant",
@@ -54,7 +54,7 @@
     "TranslationRelevant",
     "clientSpecific",
     "Object name length",
-    "Category",
+    "category",
     "Type"
   ],
   "hidden": [

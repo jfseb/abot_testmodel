@@ -5,7 +5,7 @@
     "clientSpecific": false,
     "Object_name_length": 40,
     "TranslationRelevant": true,
-    "Category": "n/a",
+    "category": "n/a",
     "Type": "n/a",
     "_tables": [
       {
@@ -50,7 +50,7 @@
     "TranslationRelevant": true,
     "clientSpecific": true,
     "Object_name_length": 40,
-    "Category": "n/a",
+    "category": "n/a",
     "Type": "n/a",
     "_tables": [
       {
@@ -96,7 +96,7 @@
     "TranslationRelevant": false,
     "clientSpecific": false,
     "Object_name_length": 20,
-    "Category": "n/a",
+    "category": "n/a",
     "Type": "n/a",
     "_tables": [
       {
@@ -112,7 +112,7 @@
     "TranslationRelevant": true,
     "clientSpecific": false,
     "Object_name_length": 20,
-    "Category": "n/a",
+    "category": "n/a",
     "Type": "n/a",
     "_tables": [
       {
@@ -126,7 +126,7 @@
     "TransportObject": "LTRC",
     "Shorttext": "Landscape Transformation Repository: Object Version",
     "TranslationRelevant": false,
-    "Category": "n/a",
+    "category": "n/a",
     "clientSpecific": false,
     "Object_name_length": 40,
     "Type": "n/a",
@@ -142,7 +142,7 @@
     "TransportObject": "SOBJ",
     "Shorttext": "Business object types",
     "Object_name_length": 10,
-    "Category": "n/a",
+    "category": "n/a",
     "TranslationRelevant": true,
     "clientSpecific": false,
     "Type": "n/a",
@@ -165,7 +165,7 @@
     "Shorttext": "Screen sequence for rental units transport object",
     "TranslationRelevant": false,
     "clientSpecific": true,
-    "Category": "n/a",
+    "category": "n/a",
     "Type": "n/a",
     "_tables": [
       {
