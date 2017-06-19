@@ -1,6 +1,6 @@
 {
   "name": "mgnlq_testmodel",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "example model data",
   "main": "js/index.js",
   "typings": "js/index",

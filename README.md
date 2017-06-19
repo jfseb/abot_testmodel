@@ -24,3 +24,10 @@ The data can be uploaded into a mongodb  ("testdb")
 via  [mgnlq_model](https://github.com/jfseb/mgnlq_model)
 
 ```npm run load_data```
+
+
+
+
+# history
+
+0.0.5 uri_rank, uri

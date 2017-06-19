@@ -1,6 +1,7 @@
 [
 {
     "uri": "https://fioriappslibrary.hana.ondemand.com/sap/fix/externalViewer/#/detail/Apps('W0052')/S7",
+    "uri_rank" : 10,
     "fiori_intent": "#Project-analyzeProjectProfitability",
     "appId": "W0052",
     "AppName": "Project Profitability",
@@ -69,6 +70,7 @@
   },
   {
     "uri": "https://fioriappslibrary.hana.ondemand.com/sap/fix/externalViewer/#/detail/Apps('F2315')/S7",
+    "uri_rank" : 100,
     "fiori_intent": "n/a",
     "appId": "F2315",
     "AppName": "UI5 Library for Project Engagement Apps",
@@ -101,7 +103,8 @@
     "AppKey": "F2315/S7(i)"
   },
   {
-    "uri": "https://fioriappslibrary.hana.ondemand.com/sap/fix/externalViewer/#/detail/Apps('F2315')/S7",
+    "uri": "https://fioriappslibrary.hana.ondemand.com/sap/fix/externalViewer/#/detail/Apps('F2315')/S7XXXX",
+    "uri_rank" : 3,
     "fiori_intent": "n/a",
     "appId": "F2315",
     "AppName": "UI5 Library for Project Engagement Apps",
