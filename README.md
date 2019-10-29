@@ -25,7 +25,12 @@ via  [mgnlq_model](https://github.com/jfseb/mgnlq_model)
 
 ```npm run load_data```
 
+this module is used as reference data in many projects
 
+an alternative source and target name can be specified via:
+
+var mongoConnectionString = process.env.MONGO_DBURL || 'mongodb://localhost/testdb';
+var modelPath = process.env.MGNLQ_MODELPATH  || 'node_modules/mgnlq_testmodel/testmodel/';
 
 
 # history

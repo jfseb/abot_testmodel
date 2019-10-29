@@ -1,9 +1,12 @@
 r3trans
 
-repalce transaction description => transaction_description
+replace transaction description => transaction_description
 
 
 
 
 reuse text
 Catalog Description
+
+add model demomdls   (gündungsjahr:Number, multivalued sendertyp, standort )
+add operators  with more than, with less than

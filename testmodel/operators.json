@@ -62,6 +62,42 @@
           "category"
         ]
       ]
+    },
+    "with more than" : {
+      "arity": 2,
+      "operatorpos" : -1,
+      "argcategory": [
+        [
+          "number"
+        ],
+        [
+          "category"
+        ]
+      ]
+    },
+    "with less than" : {
+      "arity": 2,
+      "operatorpos" : -1,
+      "argcategory": [
+        [
+          "number"
+        ],
+        [
+          "category"
+        ]
+      ]
+    },
+    "with exactly" : {
+      "arity": 2,
+      "operatorpos" : -1,
+      "argcategory": [
+        [
+          "number"
+        ],
+        [
+          "category"
+        ]
+      ]
     }
   },
   "synonyms": {

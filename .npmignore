@@ -13,6 +13,8 @@ gen_tsc
 info.lcov
 logs
 sensitive
+test1x.json
+*.bak
 tsconfig.json
 tmp.json.zip
 README.md
