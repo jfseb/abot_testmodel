@@ -63,9 +63,10 @@
         ]
       ]
     },
-    "with more than" : {
+    "more than" : {
       "arity": 2,
       "operatorpos" : -1,
+      "explanation" : " count comparison, e.g. 'more than than 2 Business Catalogs'",
       "argcategory": [
         [
           "number"
@@ -75,9 +76,10 @@
         ]
       ]
     },
-    "with less than" : {
+    "less than" : {
       "arity": 2,
       "operatorpos" : -1,
+      "explanation" : "count comparison, e.g. 'less than than 2 Business Catalogs'",
       "argcategory": [
         [
           "number"
@@ -87,13 +89,120 @@
         ]
       ]
     },
-    "with exactly" : {
+    "exactly" : {
       "arity": 2,
       "operatorpos" : -1,
+      "explanation" : "count comparison, e.g. 'exactly 2 Business Catalogs'",
       "argcategory": [
         [
           "number"
         ],
+        [
+          "category"
+        ]
+      ]
+    },
+    "<" : {
+      "arity": 2,
+      "explanation" : " numeric or alphabetical comparison, e.g. 'element number < 12' or 'element name < Ar'",
+      "argcategory": [
+        [
+          "category"
+        ],
+        [
+          "any"
+        ]
+      ]
+    },
+    "<=" : {
+      "arity": 2,
+      "explanation" : " numeric or alphabetical comparison, e.g. 'element number < 12' or 'element name < Ar'",
+      "argcategory": [
+        [
+          "category"
+        ],
+        [
+          "any"
+        ]
+      ]
+    },
+    "!=" : {
+      "arity": 2,
+      "explanation" : " numeric or alphabetical comparison, e.g. 'element number != 12' or 'element name != Ar'",
+      "argcategory": [
+        [
+          "category"
+        ],
+        [
+          "any"
+        ]
+      ]
+    },
+    "=" : {
+      "arity": 2,
+      "explanation" : " numeric or alphabetical comparison, e.g. 'element number = 12' or 'element name = Ar'",
+      "argcategory": [
+        [
+          "category"
+        ],
+        [
+          "any"
+        ]
+      ]
+    },
+    ">" : {
+      "arity": 2,
+      "argcategory": [
+        [
+          "category"
+        ],
+        [
+          "any"
+        ]
+      ]
+    },
+    ">=" : {
+      "arity": 2,
+      "argcategory": [
+        [
+          "category"
+        ],
+        [
+          "any"
+        ]
+      ]
+    },
+    "order by" : {
+      "arity": 1,
+      "operatorpos" : -1,
+      "argcategory": [
+        [
+          "category"
+        ]
+      ]
+    },
+    "order descending by" : {
+      "arity": 1,
+      "operatorpos" : -1,
+      "argcategory": [
+        [
+          "category"
+        ]
+      ]
+    },
+    "existing" : {
+      "arity": 1,
+      "operatorpos" : -1,
+      "argcategory": [
+        [
+          "category"
+        ]
+      ]
+    },
+    "not existing" : {
+      "arity": 1,
+      "operatorpos" : -1,
+      "argcategory": [
         [
           "category"
         ]
@@ -117,6 +226,21 @@
     ],
     "having": [
       "has a", "has an"
+    ],
+    "more than": [
+      "which has more than"
+    ],
+    "less than": [
+      "which has less than"
+    ],
+    "exactly": [
+      "which has exactly"
+    ],
+    "order by": [
+      "sort by", "sort ascending by", "order ascending by"
+    ],
+    "order descending by": [
+      "sort descending by"
     ]
   }
 }

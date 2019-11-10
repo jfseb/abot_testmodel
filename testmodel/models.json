@@ -1,3 +1,6 @@
 [
-  "iupacs", "philoelements", "cosmos", "r3trans", "fioriapps", "sobj_tables", "fioribecatalogs", "demomdls"
+  "iupacs",
+  "philoelements", "cosmos", "r3trans",
+  "fioriapps", "sobj_tables", "fioribecatalogs",
+  "demomdls"
 ]

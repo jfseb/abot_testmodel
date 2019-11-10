@@ -19,8 +19,10 @@
       "category_description": "standort",
       "QBEColumnProps": {
         "defaultWidth": 80,
-        "QBE": true
+        "QBE": true,
+        "LUNRIndex": true
       },
+      "wordindex": true,
       "category_synonyms": [
         "senderstandort",
         "produktionsort",
